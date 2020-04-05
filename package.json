@@ -1,0 +1,17 @@
+{
+  "name": "project-animal-crossing",
+  "version": "1.0.0",
+  "description": "Check BestBuy inventory and notify by email",
+  "main": "index.js",
+  "dependencies": {
+    "aws-cli": "^0.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Wei Li",
+  "license": "ISC"
+}
